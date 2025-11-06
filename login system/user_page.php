@@ -20,7 +20,7 @@ if (!isset($_SESSION['user_name'])) {
     <title>user page</title>
 
     <!-- custom css file link  -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="../css/style.css">
 
 </head>
 

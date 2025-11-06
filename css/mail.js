@@ -1,12 +1,13 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyB_m7oQXI2KGDBuv2q8P33KjxshdbV3csA",
-    authDomain: "contactus-71d3c.firebaseapp.com",
-    databaseURL: "https://contactus-71d3c-default-rtdb.firebaseio.com",
-    projectId: "contactus-71d3c",
-    storageBucket: "contactus-71d3c.appspot.com",
-    messagingSenderId: "1018543782575",
-    appId: "1:1018543782575:web:d11c73153eaa2fac33325a"
-  };
+    apiKey: "AIzaSyATpbUARdmcIIooGbHvGDSjme-puslI3Oo",
+    authDomain: "contact-5eb5b.firebaseapp.com",
+    databaseURL: "https://contact-5eb5b-default-rtdb.firebaseio.com",
+    projectId: "contact-5eb5b",
+    storageBucket: "contact-5eb5b.firebasestorage.app",
+    messagingSenderId: "228439836153",
+    appId: "1:228439836153:web:b0b6444c8156e10ccd2928",
+    measurementId: "G-QZ7F0C3JE1"
+};
 
   firebase.initializeApp(firebaseConfig);
 

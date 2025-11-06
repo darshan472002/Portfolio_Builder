@@ -14,7 +14,7 @@
     display: flex;
     justify-content: center;
     flex-direction: column;
-    background-image: url("C:/xampp/htdocs/PHP/images/bg.jpg");
+    background-image: url("../images/bg.jpg");
     background-size: cover;
 }
 

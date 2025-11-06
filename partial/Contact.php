@@ -9,8 +9,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <title>Contact Us</title>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
-    <link rel="stylesheet" href="/PHP/css/contact.css">
-    <link rel="stylesheet" href="/PHP/css/nav.css">
+    <link rel="stylesheet" href="../css/contact.css">
+    <link rel="stylesheet" href="../css/nav.css">
 </head>
 
 <body class="p-0 m-0 border-0 bd-example">
@@ -29,21 +29,21 @@
                     <div class="icon"><i class="fa-solid fa-location-dot"></i></div>
                     <div class="text">
                         <h3>Address</h3>
-                        <p>4671 Sugar Camp Road, Owatonna, 55060</p>
+                        <p>Dahisar East, Mumbai 400068, Maharashtra</p>
                     </div>
                 </div>
                 <div class="box">
                     <div class="icon"><i class="fa-solid fa-phone"></i></div>
                     <div class="text">
                         <h3>Phone</h3>
-                        <p>507-475-6094</p>
+                        <p>8652623903</p>
                     </div>
                 </div>
                 <div class="box">
                     <div class="icon"><i class="fa-solid fa-envelope"></i></div>
                     <div class="text">
                         <h3>Email</h3>
-                        <p>wrub7d78i0e@temporary-mail.net</p>
+                        <p>darshanpanchal679@gmail.com</p>
                     </div>
                 </div>
             </div>

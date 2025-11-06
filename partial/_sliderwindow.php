@@ -8,7 +8,7 @@
 
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/Code/image/background1.jpg" style="height:500px; background-attachment: fixed;" class="d-block w-100" alt="...">
+      <img src="..\images\bg.jpg" style="height:500px; background-attachment: fixed;" class="d-block w-100" alt="...">
       <div class="carousel-caption text-align-center text-align-top" style="top:40%;">
         <h1>First slide label</h1>
         <h5>
@@ -18,7 +18,7 @@
     </div>
 
     <div class="carousel-item">
-      <img src="/Code/image/background2.jpg" style="height:500px; background-attachment: fixed;" class="d-block w-100" alt="...">
+      <img src="..\images\background2.jpg" style="height:500px; background-attachment: fixed;" class="d-block w-100" alt="...">
       <div class="carousel-caption text-align-center text-align-top" style="top:40%;">
         <h1>Second slide label</h1>
         <h5>
@@ -28,7 +28,7 @@
     </div>
 
     <div class="carousel-item">
-      <img src="/Code/image/background3.jpg" style="height:500px; background-attachment: fixed;" class="d-block w-100" alt="...">
+      <img src="..\images\background3.jpg" style="height:500px; background-attachment: fixed;" class="d-block w-100" alt="...">
       <div class="carousel-caption text-align-center text-align-top" style="top:40%;">
         <h1>Third slide label</h1>
         <h5>
